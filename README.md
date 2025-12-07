@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hey! I'm Calango 👋
 
-<!--
-**cwlangow/cwlangow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer in progress, currently focused on **HTML, CSS, and JavaScript** as I work toward becoming a **Fullstack Developer**.
+I enjoy building functional, clean, and intuitive interfaces while constantly improving my skills and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Professional Identity**
+
+- Web developer always learning and evolving
+
+- Focused on clean, readable, and well-structured code
+
+- Enthusiastic about best practices, performance, and user experience
+
+- Continuously building projects to level up my development skills
+
+---
+
+🛠️ **Tools I Use**
+
+**Frontend:** HTML5, CSS3, JavaScript
+
+**Design & Assets:** Bootstrap, Font Awesome
+
+**Version Control:** Git & GitHub
+
+**Development Environment:** VS Code
+
+---
+
+📬 **Contact Me**
+
+**GitHub:** @cwlangow
+
+**Email:** calangowproducer@gmail.com
+
+**Instagram:** @viniii_cw
+
+**LinkedIn:** www.linkedin.com/in/cwlangow
