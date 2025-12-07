@@ -33,8 +33,8 @@ I enjoy building functional, clean, and intuitive interfaces while constantly im
 
 **GitHub:** @cwlangow
 
-**Email:** calangowproducer@gmail.com
-
 **Instagram:** @viniii_cw
+
+**Email:** calangowproducer@gmail.com
 
 **LinkedIn:** www.linkedin.com/in/cwlangow
