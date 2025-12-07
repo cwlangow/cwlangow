@@ -1,35 +1,33 @@
-## Hey! I'm Calango 👋
+## Olá! Eu sou o Calango 👋
 
-I'm a web developer in progress, currently focused on **HTML, CSS, and JavaScript** as I work toward becoming a **Fullstack Developer**.
-I enjoy building functional, clean, and intuitive interfaces while constantly improving my skills and exploring new technologies.
-
----
-
-🚀 **Professional Identity**
-
-- Web developer always learning and evolving
-
-- Focused on clean, readable, and well-structured code
-
-- Enthusiastic about best practices, performance, and user experience
-
-- Continuously building projects to level up my development skills
+Sou um desenvolvedor em formação, focado atualmente em HTML, CSS e JavaScript para construir bases sólidas rumo ao meu objetivo: me tornar um desenvolvedor Fullstack.
+Gosto de criar interfaces funcionais, organizadas e intuitivas, sempre buscando melhorar minhas habilidades e aprender novas ferramentas.
 
 ---
 
-🛠️ **Tools I Use**
+🚀 **Identidade Profissional**
+
+- Desenvolvedor web em constante evolução
+
+- Foco em escrita de código limpo, claro e bem estruturado
+
+- Entusiasta de boas práticas, performance e experiência do usuário
+
+- Sempre aprendendo e construindo projetos para aprimorar minhas habilidades
+
+---
+
+🛠️ **Minhas Ferramentas**
 
 **Frontend:** HTML5, CSS3, JavaScript
 
 **Design & Assets:** Bootstrap, Font Awesome
 
-**Version Control:** Git & GitHub
-
-**Development Environment:** VS Code
+**Versionamento:** Git & GitHub
 
 ---
 
-📬 **Contact Me**
+📬 **Como me encontrar**
 
 **GitHub:** @cwlangow
 
