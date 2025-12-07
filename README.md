@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Calango 👋
 
-Sou um desenvolvedor em formação, focado atualmente em HTML, CSS e JavaScript para construir bases sólidas rumo ao meu objetivo: me tornar um desenvolvedor Fullstack.
+Sou um desenvolvedor em formação, focado atualmente em **HTML, CSS e JavaScript** para construir bases sólidas rumo ao meu objetivo: me tornar um desenvolvedor **Fullstack.**
 Gosto de criar interfaces funcionais, organizadas e intuitivas, sempre buscando melhorar minhas habilidades e aprender novas ferramentas.
 
 ---
