@@ -1,38 +1,31 @@
-## Olá! Eu sou o Calango 👋
+# Olá, eu sou o Calango (Vinnícius) 👋
 
-Sou um desenvolvedor em formação, focado atualmente em **HTML, CSS e JavaScript** para construir bases sólidas rumo ao meu objetivo: me tornar um desenvolvedor **Fullstack.**
-Gosto de criar interfaces funcionais, organizadas e intuitivas, sempre buscando melhorar minhas habilidades e aprender novas ferramentas.
+### Desenvolvedor Fullstack em formação | React.js & Tailwind CSS 🚀
 
----
-
-🚀 **Identidade Profissional**
-
-- Desenvolvedor web em constante evolução
-
-- Foco em escrita de código limpo, claro e bem estruturado
-
-- Entusiasta de boas práticas, performance e experiência do usuário
-
-- Sempre aprendendo e construindo projetos para aprimorar minhas habilidades
+Sou um desenvolvedor focado em construir interfaces funcionais, organizadas e intuitivas. Atualmente, dedico meus estudos ao ecossistema **JavaScript**, dominando o **React** para o front-end e explorando as melhores práticas de estilização com **Tailwind CSS**. Meu objetivo é entregar código limpo, performático e focado na melhor experiência para o usuário.
 
 ---
 
-🛠️ **Minhas Ferramentas**
+### 🛠️ Tecnologias e Ferramentas
 
-**Frontend:** HTML5, CSS3, JavaScript
-
-**Design & Assets:** Bootstrap, Font Awesome
-
-**Versionamento:** Git & GitHub
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js.
+- **Estilização:** Tailwind CSS, Bootstrap.
+- **Versionamento & Ferramentas:** Git, GitHub, VS Code, Figma.
+- **Atualmente estudando:** React.js, JavaScript (ES6+) e APIs REST.
 
 ---
 
-📬 **Como me encontrar**
+### 📈 O que estou construindo agora?
+- 💻 Aprimorando conhecimentos e aplicações dinâmicas com **React e React Hooks**.
+- 🎨 Criando layouts modernos com **Tailwind CSS**.
+- 🛠️ Aplicando conceitos de **Clean Code** e componentização eficiente.
 
-**GitHub:** @cwlangow
+---
 
-**Instagram:** @viniii_cw
+### 📫 Vamos nos conectar?
 
-**Email:** calangowproducer@gmail.com
+Dê uma olhada nos meus projetos ou entre em contato para trocarmos uma ideia sobre tecnologia:
 
-**LinkedIn:** www.linkedin.com/in/cwlangow
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cwlangow)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniii_cw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calangowproducer@gmail.com)
