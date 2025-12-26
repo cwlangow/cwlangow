@@ -1,6 +1,6 @@
 # Olá, eu sou o Calango (Vinnícius) 👋
 
-### Desenvolvedor Fullstack em formação | React.js & Tailwind CSS 🚀
+### Desenvolvedor Front-end Júnior (React/JS)
 
 Sou um desenvolvedor focado em construir interfaces funcionais, organizadas e intuitivas. Atualmente, dedico meus estudos ao ecossistema **JavaScript**, dominando o **React** para o front-end e explorando as melhores práticas de estilização com **Tailwind CSS**. Meu objetivo é entregar código limpo, performático e focado na melhor experiência para o usuário.
 
@@ -18,7 +18,7 @@ Sou um desenvolvedor focado em construir interfaces funcionais, organizadas e in
 ### 📈 O que estou construindo agora?
 - 💻 Aprimorando conhecimentos e aplicações dinâmicas com **React e React Hooks**.
 - 🎨 Criando layouts modernos com **Tailwind CSS**.
-- 🛠️ Aplicando conceitos de **Clean Code** e componentização eficiente.
+- 🛠️ Aprimorando meu conhecimento ao JavaScript
 
 ---
 
